@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { View, StyleSheet, Text, TextInput, Button } from 'react-native';
 import { GooglePlacesAutocomplete, GooglePlaceData, GooglePlaceDetail } from 'react-native-google-places-autocomplete';
 
-const API_KEY = 'AIzaSyDjL-RscQZ7467U5R528POBWoBNtobZnAk'; // Replace with your actual API key
+const API_KEY = 'Your_API_KEY'; // Replace with your actual API key
 
 interface AddressComponent {
   long_name: string;
