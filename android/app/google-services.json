@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644340531830",
+    "project_id": "testing-5b9e1",
+    "storage_bucket": "testing-5b9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644340531830:android:b5b9ba7fdf5208c07d5557",
+        "android_client_info": {
+          "package_name": "com.tabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOolfsqMa5gNoCXjXQtLg1ayC1O0iub1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
